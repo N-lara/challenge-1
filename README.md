@@ -14,4 +14,4 @@ To be used by people wanting to find out more about Horiseon Social Solution Ser
 
 ## Credits
 
-Noah Lara
+this was not created by but was edited by Noah Lara to aid with accessibility
